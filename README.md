@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ROycode-007
+- 👋 Hi, I’m Rov
 - 👀 I’m interested in doing interesting things
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 chenluo.0627@foxmail.com and 2665907@dundee.ac.uk
 
